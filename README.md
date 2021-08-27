@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Sathyaprakash-art
-- 👀 I’m interested in Blockchain 
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Ethereum, solidity & hyperledger fabric.
+
+- 💞️ Hustling on Ethereum, solidity & hyperledger fabric.
 - 📫 How to reach me sathya@garpenter.com
 
 <!---
